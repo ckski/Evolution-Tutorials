@@ -1,0 +1,5 @@
+numpy
+cairosvg
+cffi
+pillow
+scikit-image
