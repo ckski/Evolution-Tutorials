@@ -3,3 +3,4 @@ cairosvg
 cffi
 pillow
 scikit-image
+matplotlib
